@@ -6,9 +6,10 @@
 <!-- look at the urls above and replace 'Project-Template' with the name of your repository -->
 
 Status: xxx <!-- in preparation / ongoing (data collection) / ongoing (analysis) / completed -->
+
 Last updated: ##-##-#### <!-- date when the information in this readme file was last updated -->
 
-![DOI](https://img.shields.io/badge/DOI-00000000-blue) <!-- Repository DOI for this github repository. Request a DOI from [Zenodo](https://zenodo.org) -->
+![DOI](https://img.shields.io/badge/DOI-00000-blue) <!-- Repository DOI for this github repository. Request a DOI from [Zenodo](https://zenodo.org) and replace '00000' -->
 
 ## Short summary
 
@@ -34,6 +35,7 @@ Last updated: ##-##-#### <!-- date when the information in this readme file was 
 < conclusion >
 
 ## Publications
+< list of publications >
 
 <!--  
 	Create a list of your publications related to this project. 
