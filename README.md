@@ -1,6 +1,13 @@
 # < Name of your research project >
-Status: in preparation / ongoing (data collection) / ongoing (analysis) / completed
+[!(https://img.shields.io/github/contributors/AIforAnesthesiology/Project-Template)](https://github.com/AIforAnesthesiology/Project-Template/graphs/contributors)
+[!(https://img.shields.io/github/last-commit/AIforAnesthesiology/Project-Template)](https://github.com/AIforAnesthesiology/Project-Template/commits/master)
+[!(https://img.shields.io/github/release-date/AIforAnesthesiology/Project-Template)](https://github.com/AIforAnesthesiology/Project-Template/releases)
+[!(https://img.shields.io/github/license/AIforAnesthesiology/Project-Template)](https://github.com/AIforAnesthesiology/Project-Template/blob/main/LICENSE) 
+
+Status: in preparation / ongoing (data collection) / ongoing (analysis) / completed\
 Last updated: day-month-year
+
+!(https://img.shields.io/badge/DOI-00000000-blue) <!-- Repository DOI for this github repository. Request a DOI from [Zenodo](https://zenodo.org) -->
 
 ## Short summary
 
@@ -19,17 +26,17 @@ Last updated: day-month-year
 ### Main study parameters/endpoints
 < main parameters >
 
-## Folder structure
-All files related to this project can be found in this repository.
+### Results
+< results >
 
-### Background information
-Store background information, including relevant publications, images and other relevant documents in this folder.
+### Conclusion
+< conclusion >
 
-### Code
-This folder will contain the sourcecode for your AI application.
+## Publications
 
-### Data
-All data used to train, test and validate your models are kept in this folder.
+<!--  
+	Create a list of your publications related to this project. 
 
-### Trial Master File (TMF)
-The research protocol and all related files are to be stored here.
+	Example:
+	* Author One, Author Two, Author Three, et al. Title of the journal article. J Abbr. 2021;20(3):100-110. doi:[000.00000-0000](http://doi.org/000.00000-0000). 
+ -->
