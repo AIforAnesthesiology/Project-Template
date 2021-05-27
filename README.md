@@ -1,13 +1,14 @@
 # < Name of your research project >
-[!(https://img.shields.io/github/contributors/AIforAnesthesiology/Project-Template)](https://github.com/AIforAnesthesiology/Project-Template/graphs/contributors)
-[!(https://img.shields.io/github/last-commit/AIforAnesthesiology/Project-Template)](https://github.com/AIforAnesthesiology/Project-Template/commits/master)
-[!(https://img.shields.io/github/release-date/AIforAnesthesiology/Project-Template)](https://github.com/AIforAnesthesiology/Project-Template/releases)
-[!(https://img.shields.io/github/license/AIforAnesthesiology/Project-Template)](https://github.com/AIforAnesthesiology/Project-Template/blob/main/LICENSE) 
+[![Contributors](https://img.shields.io/github/contributors/AIforAnesthesiology/Project-Template)](https://github.com/AIforAnesthesiology/Project-Template/graphs/contributors)
+[![Last commit](https://img.shields.io/github/last-commit/AIforAnesthesiology/Project-Template)](https://github.com/AIforAnesthesiology/Project-Template/commits/master)
+[![Release date](https://img.shields.io/github/release-date/AIforAnesthesiology/Project-Template)](https://github.com/AIforAnesthesiology/Project-Template/releases)
+[![Licence](https://img.shields.io/github/license/AIforAnesthesiology/Project-Template)](https://github.com/AIforAnesthesiology/Project-Template/blob/main/LICENSE) 
+<!-- look at the urls above and replace 'Project-Template' with the name of your repository -->
 
-Status: in preparation / ongoing (data collection) / ongoing (analysis) / completed\
-Last updated: day-month-year
+Status: xxx <!-- in preparation / ongoing (data collection) / ongoing (analysis) / completed -->
+Last updated: ##-##-#### <!-- date when the information in this readme file was last updated -->
 
-!(https://img.shields.io/badge/DOI-00000000-blue) <!-- Repository DOI for this github repository. Request a DOI from [Zenodo](https://zenodo.org) -->
+![DOI](https://img.shields.io/badge/DOI-00000000-blue) <!-- Repository DOI for this github repository. Request a DOI from [Zenodo](https://zenodo.org) -->
 
 ## Short summary
 
