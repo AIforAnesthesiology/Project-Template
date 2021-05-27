@@ -9,7 +9,7 @@ Status: xxx <!-- in preparation / ongoing (data collection) / ongoing (analysis)
 
 Last updated: ##-##-#### <!-- date when the information in this readme file was last updated -->
 
-![Repository DOI](https://img.shields.io/badge/Github_DOI-00000-blue) <!-- Repository DOI for this github repository. Request a DOI from [Zenodo](https://zenodo.org) and replace '00000' -->
+[![Repository DOI](https://img.shields.io/badge/Github_DOI-00000-blue)](#) <!-- Repository DOI for this github repository. Request a DOI from [Zenodo](https://zenodo.org) and replace '00000' -->
 
 ## Short summary
 
